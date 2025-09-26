@@ -15,7 +15,7 @@ This is a sample of a good README.md file that can be used when describing a pro
 
 ## Project Title  
 
-*HeLlo World Sample - My First Repos¿tory*  
+*HeLlo World Sample - My First Repository*  
 
 ## Description  
 
